@@ -1,11 +1,12 @@
 # Hello! I'm Adit 👋
 
 ## About Me:
-- 🎓&nbsp;Studying Electrical Engineering at Indian Institute of Technology, Kanpur.
+- 🎓&nbsp;Junior Undergrad, Department of Electrical Engineering, IIT Kanpur.
+- 👽&nbsp;Organizing and Conducting events as a Coordinator of Astronomy Club, IITK.
 - 🤖&nbsp;Working on drones as a Team Member of Aerial Robotics, IITK.
-- 👽&nbsp;Organizing and Conducting events as a Secretary of Astronomy Club, IITK.
-- 🌐&nbsp;Interested in Web Development.
-- 📫&nbsp;Contact me on <a href="https://jadit19.github.io/Homepage/#contact">my webpage</a>
+- 🌱&nbsp;Interested in Robotics and Blockchain applications.
+- 👯&nbsp;Would love to collaborate on Open Source projects!
+- 📫&nbsp;Contact me on <a href="https://jadit19.github.io/Homepage/#contact">my webpage</a>.
 
 <br />
 <a href="https://github.com/Jadit19">
