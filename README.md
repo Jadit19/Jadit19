@@ -6,6 +6,9 @@ Backend engineer building distributed systems that operate under real-world scal
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Adit%20Jain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Jadit19/)
 [![Email](https://img.shields.io/badge/Email-jadit19%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jadit19@gmail.com)
 
+
+[![Coding-CPP](https://img.shields.io/badge/Maintainer-Coding--CPP-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/coding-cpp)
+
 ## What I Work On
 
 - ⚙️ Designing distributed backend services (500K+ requests/minute scale)
